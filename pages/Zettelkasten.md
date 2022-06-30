@@ -1,0 +1,3 @@
+- 📚 [[Zettelkasten/Bibliografía]]: Referencias a contenidos interesantes
+- 📑 [[Zettelkasten/Extractos]]: Fragmentos de algún contenido que me interesen
+- 📝 [[Zettelkasten/Notas]]: Notas personales de autoría propia

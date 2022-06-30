@@ -1,0 +1,1 @@
+- Estudiar y comprender los patrones de diseño que existen a la hora de programar
