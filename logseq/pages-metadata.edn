@@ -70,21 +70,15 @@
  {:block/name "jtag",
   :block/created-at 1653529722435,
   :block/updated-at 1653531009366}
+ {:block/name "jul 1st, 2022",
+  :block/created-at 1656644404949,
+  :block/updated-at 1656684348777}
  {:block/name "jun 11th, 2022",
   :block/created-at 1654916401554,
   :block/updated-at 1654919639655}
  {:block/name "jun 13th, 2022",
   :block/created-at 1655134415048,
   :block/updated-at 1655152472468}
- {:block/name "jun 14th, 2022",
-  :block/created-at 1655210160782,
-  :block/updated-at 1655210160782}
- {:block/name "jun 24th, 2022",
-  :block/created-at 1656076475882,
-  :block/updated-at 1656076475882}
- {:block/name "jun 27th, 2022",
-  :block/created-at 1656348642641,
-  :block/updated-at 1656348642641}
  {:block/name "jun 4th, 2022",
   :block/created-at 1654316097727,
   :block/updated-at 1654347558096}
